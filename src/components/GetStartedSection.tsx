@@ -187,7 +187,7 @@ const GetStartedSection: React.FC = () => {
         />
 
         <a
-          href="https://asimagination.com"
+          href="https://link-lake-ten.vercel.app/"
           target="_blank"
           rel="noopener noreferrer"
           className="get-started-btn"
